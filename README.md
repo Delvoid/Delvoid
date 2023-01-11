@@ -1,4 +1,4 @@
-👋 Hi, I’m @Delvoid. I am currently focusing on learning Javascript, NodeJs with express for backend and react for frontend development. With the goal of finding a developer position.
+👋 Hi, I’m @Delvoid, father to 2 beautiful children. A self-taught full-stack web developer with a passion for creating innovative and intuitive web applications. Proficient in Typescript, HTML, CSS, and various web development frameworks such as React and Node.js. Proven ability to learn new technologies quickly and adapt to various project requirements. Strong problem-solving skills and attention to detail. Open to new situations and willing to take on any challenges faced with. Committed to delivering high-quality, functional, and visually appealing web projects.development principles and user experience design. 
 
 📫 If you would like to chat, please reach out to me on twitter <a href="http://www.twitter.com/Delvoid">@Delvoid</a> 
 
